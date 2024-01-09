@@ -1,4 +1,4 @@
-let car = {
+export let car = {
     model: 'Ford Fiesta',
     doors: 4,
     color: 'water blue',
